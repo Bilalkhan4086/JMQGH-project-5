@@ -1,0 +1,14 @@
+.Maindiv{
+    /* height: 45vh; */
+    color: white;
+    padding: 7% 0%;
+    font-size: 55px;
+    background-color: rgb(14,80,14);
+    /* mix-blend-mode: multiply; */
+    
+}
+.h4about{
+    color: rgb(5, 56, 5);
+    font-size: 30px;
+    margin: 5% 10%;
+}

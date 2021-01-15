@@ -1,0 +1,16 @@
+.Eventmain{
+background: url(../Contact/Contact.svg);
+background-attachment: fixed; 
+/* mix-blend-mode: multiply; */
+background-size: cover;
+background-color: rgba(14,80,14,0.2);
+ background-position: center;
+
+}
+
+.MHeading{
+    font-size: 55px;
+    color: white;
+    font-family:'Bebas Neue',cursive;
+    font-weight:lighter ;
+}
