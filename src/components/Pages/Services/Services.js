@@ -13,7 +13,7 @@ import img4 from './urdu.jpg';
 import img5 from './naat.png';
 import img6 from './Quran.jpg';
 import img7 from './tajweed.jpg';
-import { useNavigate } from 'react-router';
+import { useNavigate } from 'react-router'
 
 
 
