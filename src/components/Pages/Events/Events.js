@@ -1,6 +1,5 @@
 import React from 'react';
 import "./index.css";
-import { makeStyles } from '@material-ui/core/styles';
 import img1 from './s (1).jpg';
 import img2 from './s (2).jpg';
 import img3 from './s (3).jpg';
@@ -17,26 +16,12 @@ import { useNavigate } from 'react-router';
 
 
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: 'flex',
-    flexWrap: 'wrap',
-    justifyContent: 'space-around',
-    overflow: 'hidden',
-backgroundAttachment: 'fixed',
-// mixBlendMode: 'multiply',
-backgroundSize: 'cover',
-backgroundColor: 'rgba(14,80,14,0.2)',
-backgroundPosition: 'center',
-// filter:'blur(5px)'
-  }
 
 
 }))
   
 
 export const Events = ({getData}) => {
-    const classes = useStyles();
     const navi = useNavigate();
     const tileData = [{
         img:img6,
