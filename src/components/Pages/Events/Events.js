@@ -13,12 +13,6 @@ import img10 from './s (10).jpg';
 import img11 from './s (11).jpg';
 import { Card, CardActionArea, CardMedia, Grid, Typography,CardContent } from '@material-ui/core';
 import { useNavigate } from 'react-router';
-
-
-
-
-
-}))
   
 
 export const Events = ({getData}) => {
